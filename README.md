@@ -21,7 +21,6 @@ git clone https://github.com/tomar-ayush/DSA.git
 The repository is organized as follows:
 
 - **topic_name/**: A folder for each topic.
-  - **notes/**: Contains `README.md` files with personal notes for each topic.
   - **Solutions/**: Includes my code solutions for the problems related to that topic.
 
 ## Contributing
