@@ -14,7 +14,7 @@ Welcome to my coding chaos! This repo is my playground for tackling Data Structu
 To get started with the repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/tomar-ayush/DSA.git
 ```
 ## Structure
 
