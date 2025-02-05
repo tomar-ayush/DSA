@@ -1,0 +1,67 @@
+1. Basics of Rotated Arrays
+
+    Find the minimum element in a rotated sorted array.
+    Find the maximum element in a rotated sorted array.
+    Search for an element in a rotated sorted array (with and without duplicates).
+    Check if an array is a rotated sorted array.
+
+2. Binary Search Variations
+
+    Find the index of rotation (pivot index) in a rotated sorted array.
+    Count the number of rotations in a rotated sorted array.
+    Search for an element in a rotated sorted array with duplicates.
+
+3. Advanced Searching in Rotated Arrays
+
+    Find the first and last occurrences of a target in a rotated sorted array.
+    Find the smallest missing number in a rotated sorted array.
+    Find the peak element in a rotated sorted array.
+    Find the next greater element for every element in a rotated sorted array.
+
+4. Handling Duplicates
+
+    Find the minimum element in a rotated sorted array with duplicates.
+    Search for an element in a rotated sorted array with duplicates (consider edge cases).
+
+5. Subarray/Range-Based Questions
+
+    Find the sum of elements in a given range in a rotated sorted array.
+    Find the longest increasing subarray in a rotated sorted array.
+    Find the maximum sum of a subarray in a rotated sorted array.
+
+6. Rotation and Modification
+
+    Rotate an array by k positions (both left and right rotations).
+    Check if two arrays are rotations of each other.
+    Reverse a rotated array back to its original sorted form.
+    Find the rotation point in a rotated sorted array (using binary search).
+
+7. Real-World Applications
+
+    Find the closest pair of numbers to a given target in a rotated sorted array.
+    Find the number of pairs with a given sum in a rotated sorted array.
+    Search for a range of elements (e.g., [low, high]) in a rotated sorted array.
+
+8. Edge Cases
+
+    Handle edge cases like arrays with a single element or all identical elements.
+    Handle scenarios where the array is not rotated (already sorted).
+    Work with empty arrays and invalid inputs.
+
+9. Combination with Other Concepts
+
+    Find the intersection of two rotated sorted arrays.
+    Merge two rotated sorted arrays.
+    Search for an element in a rotated matrix (2D array).
+    Find the minimum in a k-rotated sorted array combined with binary search.
+
+10. LeetCode/Codeforces/GFG Problems
+
+    LeetCode 33: Search in Rotated Sorted Array
+    LeetCode 81: Search in Rotated Sorted Array II
+    LeetCode 153: Find Minimum in Rotated Sorted Array
+    LeetCode 154: Find Minimum in Rotated Sorted Array II
+    LeetCode 189: Rotate Array
+    LeetCode 162: Find Peak Element
+    GFG: Find the Rotation Count in a Sorted Rotated Array
+    GFG: Pair with Given Sum in Rotated Sorted Array
